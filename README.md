@@ -54,8 +54,20 @@ KELAS : TI 22 A.2
 
 ![gambar1](gambar/gambaruy4.png)
 
-# Membuat web scraping menggunakan python pada lowongan kerja
 
-# HASIL
 
-![gambar1](gambar/gambaruy7.png)
+# Web scraping
+
+![gambar1](gambar/gambaruy9.png)
+
+# penjelasan
+
+- dengan menggunakan web marketplace Ebay lalu saya salin ke link variabel
+
+- lalu saya gunakan soup untuk menganalisis konten dengan html untuk pencarian produk
+
+- buar list kemudian tambahkan list tersebut
+
+- buat dataframe untuk list
+
+![gambar1](gambar/gambaruy10.png)
