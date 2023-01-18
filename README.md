@@ -9,21 +9,23 @@
 
 - ketika kita ingin menginstal nya cukup menggunakan perintah seperti di bawah ini
 
-pip install request
+- pip install request
 
 ![gambar1](gambar/gambaruy1.png)
 
-# Instal Library bs4
+# instal Library bs4
 
 - Ketika kita ingin menginstal nya cukup menggunakan perintah seperti di bawah ini
 
+- pip install bs4
+
 ![gambar1](gambar/gambaruy8.png)
 
-# Instal Library BeautifulSoup4
+# instal Library BeautifulSoup4
 
 - ketika kita ingin menginstal nya cukup menggunakan perintah seperti di bawah ini
 
-pip install BeautifulSoup4
+- pip install BeautifulSoup4
 
 ![gambar1](gambar/gambaruy2.png)
 
@@ -31,9 +33,17 @@ pip install BeautifulSoup4
 
 - ketika kita ingin menginstal nya cukup menggunakan perintah seperti dibawah ini
 
+- pip install pandas
+
 ![gambar1](gambar/gambaruy3.png)
 
 - sebelum menjalankan program utama kita harus menggunakan perintah seperti di bawah ini
+
+- import pandas as pd
+
+- form bs4 import BeautifulSoup
+
+- import requests
 
 ![gambar1](gambar/gambaruy4.png)
 
