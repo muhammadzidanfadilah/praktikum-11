@@ -20,7 +20,7 @@ KELAS : TI 22 A.2
 
 ![gambar1](gambar/gambaruy1.png)
 
-# instal Library bs4
+# Instal Library bs4
 
 - Ketika kita ingin menginstal nya cukup menggunakan perintah seperti di bawah ini
 
@@ -28,7 +28,7 @@ KELAS : TI 22 A.2
 
 ![gambar1](gambar/gambaruy8.png)
 
-# instal Library BeautifulSoup4
+# Instal Library BeautifulSoup4
 
 - ketika kita ingin menginstal nya cukup menggunakan perintah seperti di bawah ini
 
@@ -44,7 +44,7 @@ KELAS : TI 22 A.2
 
 ![gambar1](gambar/gambaruy3.png)
 
-# sebelum menjalankan program utama kita harus menggunakan perintah seperti di bawah ini
+# Sebelum menjalankan program utama kita harus menggunakan perintah seperti di bawah ini
 
 - import pandas as pd
 
@@ -60,7 +60,7 @@ KELAS : TI 22 A.2
 
 ![gambar1](gambar/gambaruy9.png)
 
-# penjelasan
+# Penjelasan
 
 - dengan menggunakan web marketplace Ebay lalu saya salin ke link variabel
 
@@ -69,5 +69,7 @@ KELAS : TI 22 A.2
 - buat list kemudian tambahkan list tersebut
 
 - buat dataframe untuk list
+
+# Output
 
 ![gambar1](gambar/gambaruy10.png)
