@@ -1,8 +1,9 @@
 - PRAKTIKUM 11
 
-PENGGUNAAN PYTHON SEBAGAI MENU UTAMA
+# scarpping web 
 
-![gambar1](gambar/gg1.png)
+- untuk melakukan scrapping web kita memerlukan beberapa library dalam python diantaranya adalah request pandas beautifulsoup
+
 
 # Instal Library request
 
