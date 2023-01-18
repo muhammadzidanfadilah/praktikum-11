@@ -66,7 +66,7 @@ KELAS : TI 22 A.2
 
 - lalu saya gunakan soup untuk menganalisis konten dengan html untuk pencarian produk
 
-- buar list kemudian tambahkan list tersebut
+- buat list kemudian tambahkan list tersebut
 
 - buat dataframe untuk list
 
