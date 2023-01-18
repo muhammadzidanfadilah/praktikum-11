@@ -44,7 +44,7 @@ KELAS : TI 22 A.2
 
 ![gambar1](gambar/gambaruy3.png)
 
-- sebelum menjalankan program utama kita harus menggunakan perintah seperti di bawah ini
+# sebelum menjalankan program utama kita harus menggunakan perintah seperti di bawah ini
 
 - import pandas as pd
 
