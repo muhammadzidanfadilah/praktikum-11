@@ -2,16 +2,22 @@
 
 # Web Scraping Menggunakan Python
 
-- untuk melakukan scrapping web kita memerlukan beberapa library dalam python diantaranya adalah request pandas beautifulsoup
+- untuk melakukan scrapping web kita memerlukan beberapa library dalam python diantaranya adalah request pandas beautifulsoup bs4
 
 
 # Instal Library request
 
-ketika kita ingin menginstal nya cukup menggunakan perintah seperti di bawah ini
+- ketika kita ingin menginstal nya cukup menggunakan perintah seperti di bawah ini
 
 pip install request
 
 ![gambar1](gambar/gambaruy1.png)
+
+# Instal Library bs4
+
+- Ketika kita ingin menginstal nya cukup menggunakan perintah seperti di bawah ini
+
+![gambar1](gambar/gambaruy8.png)
 
 # Instal Library BeautifulSoup4
 
