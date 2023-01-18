@@ -37,6 +37,8 @@ pip install BeautifulSoup4
 
 ![gambar1](gambar/gambaruy4.png)
 
+# Membuat web scraping menggunakan python pada lowongan kerja
+
 # HASIL
 
 ![gambar1](gambar/gambaruy7.png)
