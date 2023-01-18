@@ -1,3 +1,10 @@
+Nama: Muhammad Zidan Fadillah
+
+NIM : 312210277
+
+KELAS : TI 22 A.2
+
+
 # PRAKTIKUM 11
 
 # Web Scraping Menggunakan Python
