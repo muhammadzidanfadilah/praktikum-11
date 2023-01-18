@@ -1,6 +1,6 @@
 - PRAKTIKUM 11
 
-# scarpping web 
+# Web Scraping Menggunakan Python
 
 - untuk melakukan scrapping web kita memerlukan beberapa library dalam python diantaranya adalah request pandas beautifulsoup
 
